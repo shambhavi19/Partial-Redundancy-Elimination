@@ -1,14 +1,12 @@
 -----------------------------------------------------------
-Readme for Final Project of ECE5544 Compiler Optimization
-Group: Rohit Mehta, Shambhavi Kuthe
+Readme 
 -----------------------------------------------------------
 Instructions:
-Extract the shambhavianil-rohitnm.zip in llvm-project/llvm/lib/Transforms
+Extract the PRE folder in llvm-project/llvm/lib/Transforms
 
 Follow the instructions given below:
 
 cd Transforms
-cd shambhavianil-rohitnm
 cd PRE
 make clean
 make
